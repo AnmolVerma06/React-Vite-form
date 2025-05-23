@@ -7,12 +7,6 @@ A sleek and simple form built using **React** and **Vite**, showcasing fast fron
 Check out the live version of the project here:  
 👉 [React-Vite-form Live Site](https://anmolverma06.github.io/React-Vite-form/)
 
-## 📸 Preview
-
-![React Vite Form Screenshot](https://raw.githubusercontent.com/AnmolVerma06/React-Vite-form/main/public/preview.png)
-
-> *(Tip: Add a screenshot of your live form in the `public` folder and name it `preview.png` for this to show.)*
-
 ## ✨ Features
 
 - ⚡ Built with [Vite](https://vitejs.dev/) for ultra-fast development
