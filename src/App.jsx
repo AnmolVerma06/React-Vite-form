@@ -48,7 +48,7 @@ function PhoneInput({ value, onChange, phoneCode, setPhoneCode, errorMessage, on
           style={{
             flex: 1,
             padding: "6px",
-            color: "white",
+            color: "black",
             backgroundColor: "transparent",
             border: "1px solid #ccc",
             borderRadius: "4px",
